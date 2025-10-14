@@ -81,6 +81,29 @@ describe('calcutta auction', () => {
     const totalRostered = winners.reduce((acc, roster) => acc + roster.golferIds.length, 0);
     expect(totalRostered).toBeGreaterThan(0);
   });
+
+  it('only awards each golfer once', () => {
+    const bids: AuctionBid[] = [
+      { ownerId: 'bryce', golferId: 'g003', amount: 120 },
+      { ownerId: 'tl', golferId: 'g003', amount: 90 },
+      { ownerId: 'nick', golferId: 'g004', amount: 70 }
+    ];
+    const winners = runCalcuttaAuction({
+      bids,
+      budgets: { bryce: 200, tl: 200, nick: 200 },
+      rosters: { bryce: [], tl: [], nick: [] },
+      maxRoster: 8
+    });
+
+    const awardedCounts = winners.reduce<Record<string, number>>((acc, roster) => {
+      roster.golferIds.forEach((golferId) => {
+        acc[golferId] = (acc[golferId] ?? 0) + 1;
+      });
+      return acc;
+    }, {});
+
+    expect(awardedCounts['g003']).toBe(1);
+  });
 });
 
 it('computes weekly result totals', () => {

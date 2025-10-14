@@ -143,11 +143,14 @@ interface AuctionState {
 export function runCalcuttaAuction(state: AuctionState) {
   const rosters: Record<OwnerId, string[]> = JSON.parse(JSON.stringify(state.rosters));
   const budgets = { ...state.budgets };
+  const assignedGolfers = new Set<string>();
 
   const sortedBids = [...state.bids].sort((a, b) => b.amount - a.amount);
   const winners: CalcuttaRoster[] = [];
 
   sortedBids.forEach((bid) => {
+    if (assignedGolfers.has(bid.golferId)) return;
+
     const roster = rosters[bid.ownerId] ?? [];
     if (roster.length >= state.maxRoster) return;
     if (budgets[bid.ownerId] < bid.amount) return;
@@ -166,6 +169,7 @@ export function runCalcuttaAuction(state: AuctionState) {
     roster.push(bid.golferId);
     rosters[bid.ownerId] = roster;
     budgets[bid.ownerId] -= bid.amount;
+    assignedGolfers.add(bid.golferId);
   });
 
   Object.entries(rosters).forEach(([ownerId, golferIds]) => {
