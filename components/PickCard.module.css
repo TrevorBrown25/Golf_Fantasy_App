@@ -1,0 +1,36 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  border-radius: 1rem;
+  background: white;
+  box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+  gap: 1rem;
+}
+
+.meta {
+  margin: 0.25rem 0 0;
+  font-size: 0.8rem;
+  color: rgba(15, 23, 42, 0.6);
+}
+
+.warning {
+  color: #b91c1c;
+  font-weight: 600;
+  margin-top: 0.25rem;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.remove {
+  border: none;
+  background: transparent;
+  color: #b91c1c;
+  font-weight: 600;
+  cursor: pointer;
+}

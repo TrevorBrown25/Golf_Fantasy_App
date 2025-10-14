@@ -1,0 +1,194 @@
+[
+  {
+    "id": "week-01",
+    "tournamentId": "sony-open",
+    "homeOwnerId": "bryce",
+    "awayOwnerId": "tl",
+    "status": "DRAFTING",
+    "lockAt": "2024-01-10T23:59:00"
+  },
+  {
+    "id": "week-02",
+    "tournamentId": "amx",
+    "homeOwnerId": "serg",
+    "awayOwnerId": "dj",
+    "status": "UPCOMING",
+    "lockAt": "2024-01-17T23:59:00"
+  },
+  {
+    "id": "week-03",
+    "tournamentId": "farmers",
+    "homeOwnerId": "nick",
+    "awayOwnerId": "grch",
+    "status": "UPCOMING",
+    "lockAt": "2024-01-23T23:59:00"
+  },
+  {
+    "id": "week-04",
+    "tournamentId": "pebble",
+    "homeOwnerId": "travis",
+    "awayOwnerId": "david",
+    "status": "UPCOMING",
+    "lockAt": "2024-01-31T23:59:00"
+  },
+  {
+    "id": "week-05",
+    "tournamentId": "wmphoenix",
+    "homeOwnerId": "bryce",
+    "awayOwnerId": "serg",
+    "status": "UPCOMING",
+    "lockAt": "2024-02-07T23:59:00"
+  },
+  {
+    "id": "week-06",
+    "tournamentId": "genesis",
+    "homeOwnerId": "tl",
+    "awayOwnerId": "dj",
+    "status": "UPCOMING",
+    "lockAt": "2024-02-14T23:59:00"
+  },
+  {
+    "id": "week-07",
+    "tournamentId": "mexico",
+    "homeOwnerId": "nick",
+    "awayOwnerId": "travis",
+    "status": "UPCOMING",
+    "lockAt": "2024-02-21T23:59:00"
+  },
+  {
+    "id": "week-08",
+    "tournamentId": "arnold",
+    "homeOwnerId": "grch",
+    "awayOwnerId": "david",
+    "status": "UPCOMING",
+    "lockAt": "2024-03-06T23:59:00"
+  },
+  {
+    "id": "week-09",
+    "tournamentId": "players",
+    "homeOwnerId": "bryce",
+    "awayOwnerId": "dj",
+    "status": "UPCOMING",
+    "lockAt": "2024-03-13T23:59:00"
+  },
+  {
+    "id": "week-10",
+    "tournamentId": "valspar",
+    "homeOwnerId": "tl",
+    "awayOwnerId": "serg",
+    "status": "UPCOMING",
+    "lockAt": "2024-03-20T23:59:00"
+  },
+  {
+    "id": "week-11",
+    "tournamentId": "texas",
+    "homeOwnerId": "nick",
+    "awayOwnerId": "david",
+    "status": "UPCOMING",
+    "lockAt": "2024-03-27T23:59:00"
+  },
+  {
+    "id": "week-12",
+    "tournamentId": "masters",
+    "homeOwnerId": "grch",
+    "awayOwnerId": "travis",
+    "status": "UPCOMING",
+    "lockAt": "2024-04-10T23:59:00"
+  },
+  {
+    "id": "week-13",
+    "tournamentId": "rbc",
+    "homeOwnerId": "bryce",
+    "awayOwnerId": "tl",
+    "status": "UPCOMING",
+    "lockAt": "2024-04-17T23:59:00"
+  },
+  {
+    "id": "week-14",
+    "tournamentId": "wells",
+    "homeOwnerId": "serg",
+    "awayOwnerId": "dj",
+    "status": "UPCOMING",
+    "lockAt": "2024-05-08T23:59:00"
+  },
+  {
+    "id": "week-15",
+    "tournamentId": "byron",
+    "homeOwnerId": "nick",
+    "awayOwnerId": "grch",
+    "status": "UPCOMING",
+    "lockAt": "2024-05-01T23:59:00"
+  },
+  {
+    "id": "week-16",
+    "tournamentId": "pga",
+    "homeOwnerId": "travis",
+    "awayOwnerId": "david",
+    "status": "UPCOMING",
+    "lockAt": "2024-05-15T23:59:00"
+  },
+  {
+    "id": "week-17",
+    "tournamentId": "charles",
+    "homeOwnerId": "bryce",
+    "awayOwnerId": "serg",
+    "status": "UPCOMING",
+    "lockAt": "2024-05-22T23:59:00"
+  },
+  {
+    "id": "week-18",
+    "tournamentId": "canadian",
+    "homeOwnerId": "tl",
+    "awayOwnerId": "dj",
+    "status": "UPCOMING",
+    "lockAt": "2024-05-29T23:59:00"
+  },
+  {
+    "id": "week-19",
+    "tournamentId": "memorial",
+    "homeOwnerId": "nick",
+    "awayOwnerId": "travis",
+    "status": "UPCOMING",
+    "lockAt": "2024-06-05T23:59:00"
+  },
+  {
+    "id": "week-20",
+    "tournamentId": "usopen",
+    "homeOwnerId": "grch",
+    "awayOwnerId": "david",
+    "status": "UPCOMING",
+    "lockAt": "2024-06-12T23:59:00"
+  },
+  {
+    "id": "week-21",
+    "tournamentId": "travellers",
+    "homeOwnerId": "bryce",
+    "awayOwnerId": "dj",
+    "status": "UPCOMING",
+    "lockAt": "2024-06-19T23:59:00"
+  },
+  {
+    "id": "week-22",
+    "tournamentId": "rocket",
+    "homeOwnerId": "tl",
+    "awayOwnerId": "serg",
+    "status": "UPCOMING",
+    "lockAt": "2024-06-26T23:59:00"
+  },
+  {
+    "id": "week-23",
+    "tournamentId": "john-deere",
+    "homeOwnerId": "nick",
+    "awayOwnerId": "david",
+    "status": "UPCOMING",
+    "lockAt": "2024-07-03T23:59:00"
+  },
+  {
+    "id": "week-24",
+    "tournamentId": "open",
+    "homeOwnerId": "grch",
+    "awayOwnerId": "travis",
+    "status": "UPCOMING",
+    "lockAt": "2024-07-17T23:59:00"
+  }
+]

@@ -1,0 +1,9 @@
+.page {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.helper {
+  color: rgba(15, 23, 42, 0.6);
+  font-size: 0.9rem;
+}

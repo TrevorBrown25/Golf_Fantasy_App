@@ -1,0 +1,12 @@
+[
+  {
+    "id": "RIGHT_SHARKS",
+    "name": "Right Sharks",
+    "ownerIds": ["bryce", "tl", "serg", "dj"]
+  },
+  {
+    "id": "LEFT_SHARKS",
+    "name": "Left Sharks",
+    "ownerIds": ["nick", "grch", "travis", "david"]
+  }
+]

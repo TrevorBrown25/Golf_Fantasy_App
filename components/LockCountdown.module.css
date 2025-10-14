@@ -1,0 +1,14 @@
+.countdown {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(15, 191, 106, 0.12);
+  color: #064e3b;
+  font-weight: 600;
+}
+
+.value[data-state='locked'] {
+  color: #991b1b;
+}

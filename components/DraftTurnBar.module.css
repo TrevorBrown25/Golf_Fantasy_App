@@ -1,0 +1,23 @@
+.bar {
+  display: grid;
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+  gap: 0.25rem;
+  margin: 1rem 0;
+}
+
+.step {
+  padding: 0.5rem;
+  border-radius: 0.75rem;
+  text-align: center;
+  font-size: 0.75rem;
+  background: rgba(15, 23, 42, 0.08);
+}
+
+.step[data-status='current'] {
+  background: rgba(15, 191, 106, 0.2);
+  font-weight: 700;
+}
+
+.step[data-status='complete'] {
+  opacity: 0.6;
+}

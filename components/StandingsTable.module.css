@@ -1,0 +1,26 @@
+.wrapper {
+  overflow-x: auto;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 480px;
+}
+
+.caption {
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+th,
+td {
+  padding: 0.5rem;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.12);
+  text-align: left;
+}
+
+tbody tr:hover {
+  background: rgba(15, 191, 106, 0.06);
+}

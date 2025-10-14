@@ -1,0 +1,1502 @@
+[
+  {
+    "tournamentId": "sony-open",
+    "golferId": "g001",
+    "amount": 566386
+  },
+  {
+    "tournamentId": "sony-open",
+    "golferId": "g002",
+    "amount": 550064
+  },
+  {
+    "tournamentId": "sony-open",
+    "golferId": "g003",
+    "amount": 547302
+  },
+  {
+    "tournamentId": "sony-open",
+    "golferId": "g004",
+    "amount": 657297
+  },
+  {
+    "tournamentId": "sony-open",
+    "golferId": "g005",
+    "amount": 520861
+  },
+  {
+    "tournamentId": "sony-open",
+    "golferId": "g006",
+    "amount": 303396
+  },
+  {
+    "tournamentId": "sony-open",
+    "golferId": "g007",
+    "amount": 565847
+  },
+  {
+    "tournamentId": "sony-open",
+    "golferId": "g008",
+    "amount": 463899
+  },
+  {
+    "tournamentId": "sony-open",
+    "golferId": "g009",
+    "amount": 459456
+  },
+  {
+    "tournamentId": "sony-open",
+    "golferId": "g010",
+    "amount": 497382
+  },
+  {
+    "tournamentId": "amx",
+    "golferId": "g001",
+    "amount": 622844
+  },
+  {
+    "tournamentId": "amx",
+    "golferId": "g002",
+    "amount": 750533
+  },
+  {
+    "tournamentId": "amx",
+    "golferId": "g003",
+    "amount": 662495
+  },
+  {
+    "tournamentId": "amx",
+    "golferId": "g004",
+    "amount": 568576
+  },
+  {
+    "tournamentId": "amx",
+    "golferId": "g005",
+    "amount": 429251
+  },
+  {
+    "tournamentId": "amx",
+    "golferId": "g006",
+    "amount": 375800
+  },
+  {
+    "tournamentId": "amx",
+    "golferId": "g007",
+    "amount": 552951
+  },
+  {
+    "tournamentId": "amx",
+    "golferId": "g008",
+    "amount": 700662
+  },
+  {
+    "tournamentId": "amx",
+    "golferId": "g009",
+    "amount": 498248
+  },
+  {
+    "tournamentId": "amx",
+    "golferId": "g010",
+    "amount": 464051
+  },
+  {
+    "tournamentId": "farmers",
+    "golferId": "g001",
+    "amount": 667766
+  },
+  {
+    "tournamentId": "farmers",
+    "golferId": "g002",
+    "amount": 357968
+  },
+  {
+    "tournamentId": "farmers",
+    "golferId": "g003",
+    "amount": 517158
+  },
+  {
+    "tournamentId": "farmers",
+    "golferId": "g004",
+    "amount": 625554
+  },
+  {
+    "tournamentId": "farmers",
+    "golferId": "g005",
+    "amount": 671010
+  },
+  {
+    "tournamentId": "farmers",
+    "golferId": "g006",
+    "amount": 491905
+  },
+  {
+    "tournamentId": "farmers",
+    "golferId": "g007",
+    "amount": 572489
+  },
+  {
+    "tournamentId": "farmers",
+    "golferId": "g008",
+    "amount": 541232
+  },
+  {
+    "tournamentId": "farmers",
+    "golferId": "g009",
+    "amount": 609349
+  },
+  {
+    "tournamentId": "farmers",
+    "golferId": "g010",
+    "amount": 313016
+  },
+  {
+    "tournamentId": "pebble",
+    "golferId": "g001",
+    "amount": 673237
+  },
+  {
+    "tournamentId": "pebble",
+    "golferId": "g002",
+    "amount": 348821
+  },
+  {
+    "tournamentId": "pebble",
+    "golferId": "g003",
+    "amount": 171008
+  },
+  {
+    "tournamentId": "pebble",
+    "golferId": "g004",
+    "amount": 460966
+  },
+  {
+    "tournamentId": "pebble",
+    "golferId": "g005",
+    "amount": 402628
+  },
+  {
+    "tournamentId": "pebble",
+    "golferId": "g006",
+    "amount": 659401
+  },
+  {
+    "tournamentId": "pebble",
+    "golferId": "g007",
+    "amount": 615639
+  },
+  {
+    "tournamentId": "pebble",
+    "golferId": "g008",
+    "amount": 321138
+  },
+  {
+    "tournamentId": "pebble",
+    "golferId": "g009",
+    "amount": 619104
+  },
+  {
+    "tournamentId": "pebble",
+    "golferId": "g010",
+    "amount": 329669
+  },
+  {
+    "tournamentId": "wmphoenix",
+    "golferId": "g001",
+    "amount": 575063
+  },
+  {
+    "tournamentId": "wmphoenix",
+    "golferId": "g002",
+    "amount": 531915
+  },
+  {
+    "tournamentId": "wmphoenix",
+    "golferId": "g003",
+    "amount": 581162
+  },
+  {
+    "tournamentId": "wmphoenix",
+    "golferId": "g004",
+    "amount": 674795
+  },
+  {
+    "tournamentId": "wmphoenix",
+    "golferId": "g005",
+    "amount": 635762
+  },
+  {
+    "tournamentId": "wmphoenix",
+    "golferId": "g006",
+    "amount": 580482
+  },
+  {
+    "tournamentId": "wmphoenix",
+    "golferId": "g007",
+    "amount": 613492
+  },
+  {
+    "tournamentId": "wmphoenix",
+    "golferId": "g008",
+    "amount": 575773
+  },
+  {
+    "tournamentId": "wmphoenix",
+    "golferId": "g009",
+    "amount": 397952
+  },
+  {
+    "tournamentId": "wmphoenix",
+    "golferId": "g010",
+    "amount": 372394
+  },
+  {
+    "tournamentId": "genesis",
+    "golferId": "g001",
+    "amount": 517504
+  },
+  {
+    "tournamentId": "genesis",
+    "golferId": "g002",
+    "amount": 650898
+  },
+  {
+    "tournamentId": "genesis",
+    "golferId": "g003",
+    "amount": 526482
+  },
+  {
+    "tournamentId": "genesis",
+    "golferId": "g004",
+    "amount": 902363
+  },
+  {
+    "tournamentId": "genesis",
+    "golferId": "g005",
+    "amount": 417106
+  },
+  {
+    "tournamentId": "genesis",
+    "golferId": "g006",
+    "amount": 363168
+  },
+  {
+    "tournamentId": "genesis",
+    "golferId": "g007",
+    "amount": 631271
+  },
+  {
+    "tournamentId": "genesis",
+    "golferId": "g008",
+    "amount": 717277
+  },
+  {
+    "tournamentId": "genesis",
+    "golferId": "g009",
+    "amount": 567853
+  },
+  {
+    "tournamentId": "genesis",
+    "golferId": "g010",
+    "amount": 605372
+  },
+  {
+    "tournamentId": "mexico",
+    "golferId": "g001",
+    "amount": 801951
+  },
+  {
+    "tournamentId": "mexico",
+    "golferId": "g002",
+    "amount": 561895
+  },
+  {
+    "tournamentId": "mexico",
+    "golferId": "g003",
+    "amount": 350556
+  },
+  {
+    "tournamentId": "mexico",
+    "golferId": "g004",
+    "amount": 472188
+  },
+  {
+    "tournamentId": "mexico",
+    "golferId": "g005",
+    "amount": 682934
+  },
+  {
+    "tournamentId": "mexico",
+    "golferId": "g006",
+    "amount": 311448
+  },
+  {
+    "tournamentId": "mexico",
+    "golferId": "g007",
+    "amount": 521029
+  },
+  {
+    "tournamentId": "mexico",
+    "golferId": "g008",
+    "amount": 541985
+  },
+  {
+    "tournamentId": "mexico",
+    "golferId": "g009",
+    "amount": 444661
+  },
+  {
+    "tournamentId": "mexico",
+    "golferId": "g010",
+    "amount": 588544
+  },
+  {
+    "tournamentId": "arnold",
+    "golferId": "g001",
+    "amount": 675116
+  },
+  {
+    "tournamentId": "arnold",
+    "golferId": "g002",
+    "amount": 924211
+  },
+  {
+    "tournamentId": "arnold",
+    "golferId": "g003",
+    "amount": 656995
+  },
+  {
+    "tournamentId": "arnold",
+    "golferId": "g004",
+    "amount": 460589
+  },
+  {
+    "tournamentId": "arnold",
+    "golferId": "g005",
+    "amount": 455730
+  },
+  {
+    "tournamentId": "arnold",
+    "golferId": "g006",
+    "amount": 403262
+  },
+  {
+    "tournamentId": "arnold",
+    "golferId": "g007",
+    "amount": 658841
+  },
+  {
+    "tournamentId": "arnold",
+    "golferId": "g008",
+    "amount": 418975
+  },
+  {
+    "tournamentId": "arnold",
+    "golferId": "g009",
+    "amount": 481460
+  },
+  {
+    "tournamentId": "arnold",
+    "golferId": "g010",
+    "amount": 592395
+  },
+  {
+    "tournamentId": "players",
+    "golferId": "g001",
+    "amount": 479480
+  },
+  {
+    "tournamentId": "players",
+    "golferId": "g002",
+    "amount": 531951
+  },
+  {
+    "tournamentId": "players",
+    "golferId": "g003",
+    "amount": 287807
+  },
+  {
+    "tournamentId": "players",
+    "golferId": "g004",
+    "amount": 389628
+  },
+  {
+    "tournamentId": "players",
+    "golferId": "g005",
+    "amount": 454839
+  },
+  {
+    "tournamentId": "players",
+    "golferId": "g006",
+    "amount": 590364
+  },
+  {
+    "tournamentId": "players",
+    "golferId": "g007",
+    "amount": 695023
+  },
+  {
+    "tournamentId": "players",
+    "golferId": "g008",
+    "amount": 501229
+  },
+  {
+    "tournamentId": "players",
+    "golferId": "g009",
+    "amount": 531204
+  },
+  {
+    "tournamentId": "players",
+    "golferId": "g010",
+    "amount": 505195
+  },
+  {
+    "tournamentId": "valspar",
+    "golferId": "g001",
+    "amount": 750711
+  },
+  {
+    "tournamentId": "valspar",
+    "golferId": "g002",
+    "amount": 710003
+  },
+  {
+    "tournamentId": "valspar",
+    "golferId": "g003",
+    "amount": 605053
+  },
+  {
+    "tournamentId": "valspar",
+    "golferId": "g004",
+    "amount": 400358
+  },
+  {
+    "tournamentId": "valspar",
+    "golferId": "g005",
+    "amount": 675507
+  },
+  {
+    "tournamentId": "valspar",
+    "golferId": "g006",
+    "amount": 585157
+  },
+  {
+    "tournamentId": "valspar",
+    "golferId": "g007",
+    "amount": 700041
+  },
+  {
+    "tournamentId": "valspar",
+    "golferId": "g008",
+    "amount": 499514
+  },
+  {
+    "tournamentId": "valspar",
+    "golferId": "g009",
+    "amount": 784965
+  },
+  {
+    "tournamentId": "valspar",
+    "golferId": "g010",
+    "amount": 426168
+  },
+  {
+    "tournamentId": "texas",
+    "golferId": "g001",
+    "amount": 826959
+  },
+  {
+    "tournamentId": "texas",
+    "golferId": "g002",
+    "amount": 593267
+  },
+  {
+    "tournamentId": "texas",
+    "golferId": "g003",
+    "amount": 486559
+  },
+  {
+    "tournamentId": "texas",
+    "golferId": "g004",
+    "amount": 382732
+  },
+  {
+    "tournamentId": "texas",
+    "golferId": "g005",
+    "amount": 517345
+  },
+  {
+    "tournamentId": "texas",
+    "golferId": "g006",
+    "amount": 741498
+  },
+  {
+    "tournamentId": "texas",
+    "golferId": "g007",
+    "amount": 638456
+  },
+  {
+    "tournamentId": "texas",
+    "golferId": "g008",
+    "amount": 607332
+  },
+  {
+    "tournamentId": "texas",
+    "golferId": "g009",
+    "amount": 135619
+  },
+  {
+    "tournamentId": "texas",
+    "golferId": "g010",
+    "amount": 586644
+  },
+  {
+    "tournamentId": "masters",
+    "golferId": "g001",
+    "amount": 671377
+  },
+  {
+    "tournamentId": "masters",
+    "golferId": "g002",
+    "amount": 493511
+  },
+  {
+    "tournamentId": "masters",
+    "golferId": "g003",
+    "amount": 469892
+  },
+  {
+    "tournamentId": "masters",
+    "golferId": "g004",
+    "amount": 551653
+  },
+  {
+    "tournamentId": "masters",
+    "golferId": "g005",
+    "amount": 798731
+  },
+  {
+    "tournamentId": "masters",
+    "golferId": "g006",
+    "amount": 369734
+  },
+  {
+    "tournamentId": "masters",
+    "golferId": "g007",
+    "amount": 451829
+  },
+  {
+    "tournamentId": "masters",
+    "golferId": "g008",
+    "amount": 708267
+  },
+  {
+    "tournamentId": "masters",
+    "golferId": "g009",
+    "amount": 425077
+  },
+  {
+    "tournamentId": "masters",
+    "golferId": "g010",
+    "amount": 425362
+  },
+  {
+    "tournamentId": "rbc",
+    "golferId": "g001",
+    "amount": 602666
+  },
+  {
+    "tournamentId": "rbc",
+    "golferId": "g002",
+    "amount": 389806
+  },
+  {
+    "tournamentId": "rbc",
+    "golferId": "g003",
+    "amount": 596991
+  },
+  {
+    "tournamentId": "rbc",
+    "golferId": "g004",
+    "amount": 370557
+  },
+  {
+    "tournamentId": "rbc",
+    "golferId": "g005",
+    "amount": 672779
+  },
+  {
+    "tournamentId": "rbc",
+    "golferId": "g006",
+    "amount": 528477
+  },
+  {
+    "tournamentId": "rbc",
+    "golferId": "g007",
+    "amount": 858514
+  },
+  {
+    "tournamentId": "rbc",
+    "golferId": "g008",
+    "amount": 546126
+  },
+  {
+    "tournamentId": "rbc",
+    "golferId": "g009",
+    "amount": 696853
+  },
+  {
+    "tournamentId": "rbc",
+    "golferId": "g010",
+    "amount": 284510
+  },
+  {
+    "tournamentId": "zurich",
+    "golferId": "g001",
+    "amount": 569679
+  },
+  {
+    "tournamentId": "zurich",
+    "golferId": "g002",
+    "amount": 624471
+  },
+  {
+    "tournamentId": "zurich",
+    "golferId": "g003",
+    "amount": 825858
+  },
+  {
+    "tournamentId": "zurich",
+    "golferId": "g004",
+    "amount": 299862
+  },
+  {
+    "tournamentId": "zurich",
+    "golferId": "g005",
+    "amount": 688592
+  },
+  {
+    "tournamentId": "zurich",
+    "golferId": "g006",
+    "amount": 616703
+  },
+  {
+    "tournamentId": "zurich",
+    "golferId": "g007",
+    "amount": 746031
+  },
+  {
+    "tournamentId": "zurich",
+    "golferId": "g008",
+    "amount": 610857
+  },
+  {
+    "tournamentId": "zurich",
+    "golferId": "g009",
+    "amount": 499810
+  },
+  {
+    "tournamentId": "zurich",
+    "golferId": "g010",
+    "amount": 401752
+  },
+  {
+    "tournamentId": "wells",
+    "golferId": "g001",
+    "amount": 400773
+  },
+  {
+    "tournamentId": "wells",
+    "golferId": "g002",
+    "amount": 605313
+  },
+  {
+    "tournamentId": "wells",
+    "golferId": "g003",
+    "amount": 535245
+  },
+  {
+    "tournamentId": "wells",
+    "golferId": "g004",
+    "amount": 855040
+  },
+  {
+    "tournamentId": "wells",
+    "golferId": "g005",
+    "amount": 448346
+  },
+  {
+    "tournamentId": "wells",
+    "golferId": "g006",
+    "amount": 576058
+  },
+  {
+    "tournamentId": "wells",
+    "golferId": "g007",
+    "amount": 280649
+  },
+  {
+    "tournamentId": "wells",
+    "golferId": "g008",
+    "amount": 444680
+  },
+  {
+    "tournamentId": "wells",
+    "golferId": "g009",
+    "amount": 531172
+  },
+  {
+    "tournamentId": "wells",
+    "golferId": "g010",
+    "amount": 603594
+  },
+  {
+    "tournamentId": "byron",
+    "golferId": "g001",
+    "amount": 805215
+  },
+  {
+    "tournamentId": "byron",
+    "golferId": "g002",
+    "amount": 569377
+  },
+  {
+    "tournamentId": "byron",
+    "golferId": "g003",
+    "amount": 396413
+  },
+  {
+    "tournamentId": "byron",
+    "golferId": "g004",
+    "amount": 620677
+  },
+  {
+    "tournamentId": "byron",
+    "golferId": "g005",
+    "amount": 617548
+  },
+  {
+    "tournamentId": "byron",
+    "golferId": "g006",
+    "amount": 601748
+  },
+  {
+    "tournamentId": "byron",
+    "golferId": "g007",
+    "amount": 410956
+  },
+  {
+    "tournamentId": "byron",
+    "golferId": "g008",
+    "amount": 674007
+  },
+  {
+    "tournamentId": "byron",
+    "golferId": "g009",
+    "amount": 505184
+  },
+  {
+    "tournamentId": "byron",
+    "golferId": "g010",
+    "amount": 584973
+  },
+  {
+    "tournamentId": "pga",
+    "golferId": "g001",
+    "amount": 779110
+  },
+  {
+    "tournamentId": "pga",
+    "golferId": "g002",
+    "amount": 667390
+  },
+  {
+    "tournamentId": "pga",
+    "golferId": "g003",
+    "amount": 606977
+  },
+  {
+    "tournamentId": "pga",
+    "golferId": "g004",
+    "amount": 874919
+  },
+  {
+    "tournamentId": "pga",
+    "golferId": "g005",
+    "amount": 576555
+  },
+  {
+    "tournamentId": "pga",
+    "golferId": "g006",
+    "amount": 483605
+  },
+  {
+    "tournamentId": "pga",
+    "golferId": "g007",
+    "amount": 532795
+  },
+  {
+    "tournamentId": "pga",
+    "golferId": "g008",
+    "amount": 726415
+  },
+  {
+    "tournamentId": "pga",
+    "golferId": "g009",
+    "amount": 509806
+  },
+  {
+    "tournamentId": "pga",
+    "golferId": "g010",
+    "amount": 557906
+  },
+  {
+    "tournamentId": "charles",
+    "golferId": "g001",
+    "amount": 767359
+  },
+  {
+    "tournamentId": "charles",
+    "golferId": "g002",
+    "amount": 499071
+  },
+  {
+    "tournamentId": "charles",
+    "golferId": "g003",
+    "amount": 305014
+  },
+  {
+    "tournamentId": "charles",
+    "golferId": "g004",
+    "amount": 596913
+  },
+  {
+    "tournamentId": "charles",
+    "golferId": "g005",
+    "amount": 574460
+  },
+  {
+    "tournamentId": "charles",
+    "golferId": "g006",
+    "amount": 436798
+  },
+  {
+    "tournamentId": "charles",
+    "golferId": "g007",
+    "amount": 646662
+  },
+  {
+    "tournamentId": "charles",
+    "golferId": "g008",
+    "amount": 595135
+  },
+  {
+    "tournamentId": "charles",
+    "golferId": "g009",
+    "amount": 342751
+  },
+  {
+    "tournamentId": "charles",
+    "golferId": "g010",
+    "amount": 557732
+  },
+  {
+    "tournamentId": "canadian",
+    "golferId": "g001",
+    "amount": 558584
+  },
+  {
+    "tournamentId": "canadian",
+    "golferId": "g002",
+    "amount": 353546
+  },
+  {
+    "tournamentId": "canadian",
+    "golferId": "g003",
+    "amount": 631942
+  },
+  {
+    "tournamentId": "canadian",
+    "golferId": "g004",
+    "amount": 545217
+  },
+  {
+    "tournamentId": "canadian",
+    "golferId": "g005",
+    "amount": 428207
+  },
+  {
+    "tournamentId": "canadian",
+    "golferId": "g006",
+    "amount": 606441
+  },
+  {
+    "tournamentId": "canadian",
+    "golferId": "g007",
+    "amount": 589213
+  },
+  {
+    "tournamentId": "canadian",
+    "golferId": "g008",
+    "amount": 417369
+  },
+  {
+    "tournamentId": "canadian",
+    "golferId": "g009",
+    "amount": 552052
+  },
+  {
+    "tournamentId": "canadian",
+    "golferId": "g010",
+    "amount": 632259
+  },
+  {
+    "tournamentId": "memorial",
+    "golferId": "g001",
+    "amount": 481100
+  },
+  {
+    "tournamentId": "memorial",
+    "golferId": "g002",
+    "amount": 633133
+  },
+  {
+    "tournamentId": "memorial",
+    "golferId": "g003",
+    "amount": 564413
+  },
+  {
+    "tournamentId": "memorial",
+    "golferId": "g004",
+    "amount": 891901
+  },
+  {
+    "tournamentId": "memorial",
+    "golferId": "g005",
+    "amount": 260654
+  },
+  {
+    "tournamentId": "memorial",
+    "golferId": "g006",
+    "amount": 632292
+  },
+  {
+    "tournamentId": "memorial",
+    "golferId": "g007",
+    "amount": 470063
+  },
+  {
+    "tournamentId": "memorial",
+    "golferId": "g008",
+    "amount": 488970
+  },
+  {
+    "tournamentId": "memorial",
+    "golferId": "g009",
+    "amount": 777238
+  },
+  {
+    "tournamentId": "memorial",
+    "golferId": "g010",
+    "amount": 478714
+  },
+  {
+    "tournamentId": "usopen",
+    "golferId": "g001",
+    "amount": 924141
+  },
+  {
+    "tournamentId": "usopen",
+    "golferId": "g002",
+    "amount": 509677
+  },
+  {
+    "tournamentId": "usopen",
+    "golferId": "g003",
+    "amount": 616576
+  },
+  {
+    "tournamentId": "usopen",
+    "golferId": "g004",
+    "amount": 478372
+  },
+  {
+    "tournamentId": "usopen",
+    "golferId": "g005",
+    "amount": 436396
+  },
+  {
+    "tournamentId": "usopen",
+    "golferId": "g006",
+    "amount": 537372
+  },
+  {
+    "tournamentId": "usopen",
+    "golferId": "g007",
+    "amount": 473614
+  },
+  {
+    "tournamentId": "usopen",
+    "golferId": "g008",
+    "amount": 534373
+  },
+  {
+    "tournamentId": "usopen",
+    "golferId": "g009",
+    "amount": 176245
+  },
+  {
+    "tournamentId": "usopen",
+    "golferId": "g010",
+    "amount": 780370
+  },
+  {
+    "tournamentId": "travellers",
+    "golferId": "g001",
+    "amount": 562950
+  },
+  {
+    "tournamentId": "travellers",
+    "golferId": "g002",
+    "amount": 837435
+  },
+  {
+    "tournamentId": "travellers",
+    "golferId": "g003",
+    "amount": 412933
+  },
+  {
+    "tournamentId": "travellers",
+    "golferId": "g004",
+    "amount": 595880
+  },
+  {
+    "tournamentId": "travellers",
+    "golferId": "g005",
+    "amount": 1014741
+  },
+  {
+    "tournamentId": "travellers",
+    "golferId": "g006",
+    "amount": 397540
+  },
+  {
+    "tournamentId": "travellers",
+    "golferId": "g007",
+    "amount": 291705
+  },
+  {
+    "tournamentId": "travellers",
+    "golferId": "g008",
+    "amount": 422023
+  },
+  {
+    "tournamentId": "travellers",
+    "golferId": "g009",
+    "amount": 562873
+  },
+  {
+    "tournamentId": "travellers",
+    "golferId": "g010",
+    "amount": 584001
+  },
+  {
+    "tournamentId": "rocket",
+    "golferId": "g001",
+    "amount": 781555
+  },
+  {
+    "tournamentId": "rocket",
+    "golferId": "g002",
+    "amount": 537448
+  },
+  {
+    "tournamentId": "rocket",
+    "golferId": "g003",
+    "amount": 323662
+  },
+  {
+    "tournamentId": "rocket",
+    "golferId": "g004",
+    "amount": 486745
+  },
+  {
+    "tournamentId": "rocket",
+    "golferId": "g005",
+    "amount": 726033
+  },
+  {
+    "tournamentId": "rocket",
+    "golferId": "g006",
+    "amount": 597849
+  },
+  {
+    "tournamentId": "rocket",
+    "golferId": "g007",
+    "amount": 222459
+  },
+  {
+    "tournamentId": "rocket",
+    "golferId": "g008",
+    "amount": 498742
+  },
+  {
+    "tournamentId": "rocket",
+    "golferId": "g009",
+    "amount": 701725
+  },
+  {
+    "tournamentId": "rocket",
+    "golferId": "g010",
+    "amount": 798982
+  },
+  {
+    "tournamentId": "john-deere",
+    "golferId": "g001",
+    "amount": 672252
+  },
+  {
+    "tournamentId": "john-deere",
+    "golferId": "g002",
+    "amount": 622395
+  },
+  {
+    "tournamentId": "john-deere",
+    "golferId": "g003",
+    "amount": 377969
+  },
+  {
+    "tournamentId": "john-deere",
+    "golferId": "g004",
+    "amount": 425513
+  },
+  {
+    "tournamentId": "john-deere",
+    "golferId": "g005",
+    "amount": 547037
+  },
+  {
+    "tournamentId": "john-deere",
+    "golferId": "g006",
+    "amount": 603479
+  },
+  {
+    "tournamentId": "john-deere",
+    "golferId": "g007",
+    "amount": 603027
+  },
+  {
+    "tournamentId": "john-deere",
+    "golferId": "g008",
+    "amount": 432268
+  },
+  {
+    "tournamentId": "john-deere",
+    "golferId": "g009",
+    "amount": 319208
+  },
+  {
+    "tournamentId": "john-deere",
+    "golferId": "g010",
+    "amount": 363332
+  },
+  {
+    "tournamentId": "scottish",
+    "golferId": "g001",
+    "amount": 414453
+  },
+  {
+    "tournamentId": "scottish",
+    "golferId": "g002",
+    "amount": 672511
+  },
+  {
+    "tournamentId": "scottish",
+    "golferId": "g003",
+    "amount": 217157
+  },
+  {
+    "tournamentId": "scottish",
+    "golferId": "g004",
+    "amount": 502008
+  },
+  {
+    "tournamentId": "scottish",
+    "golferId": "g005",
+    "amount": 607481
+  },
+  {
+    "tournamentId": "scottish",
+    "golferId": "g006",
+    "amount": 756301
+  },
+  {
+    "tournamentId": "scottish",
+    "golferId": "g007",
+    "amount": 526694
+  },
+  {
+    "tournamentId": "scottish",
+    "golferId": "g008",
+    "amount": 654192
+  },
+  {
+    "tournamentId": "scottish",
+    "golferId": "g009",
+    "amount": 432149
+  },
+  {
+    "tournamentId": "scottish",
+    "golferId": "g010",
+    "amount": 368339
+  },
+  {
+    "tournamentId": "open",
+    "golferId": "g001",
+    "amount": 486841
+  },
+  {
+    "tournamentId": "open",
+    "golferId": "g002",
+    "amount": 805100
+  },
+  {
+    "tournamentId": "open",
+    "golferId": "g003",
+    "amount": 713133
+  },
+  {
+    "tournamentId": "open",
+    "golferId": "g004",
+    "amount": 625109
+  },
+  {
+    "tournamentId": "open",
+    "golferId": "g005",
+    "amount": 1039540
+  },
+  {
+    "tournamentId": "open",
+    "golferId": "g006",
+    "amount": 523148
+  },
+  {
+    "tournamentId": "open",
+    "golferId": "g007",
+    "amount": 609052
+  },
+  {
+    "tournamentId": "open",
+    "golferId": "g008",
+    "amount": 550138
+  },
+  {
+    "tournamentId": "open",
+    "golferId": "g009",
+    "amount": 458717
+  },
+  {
+    "tournamentId": "open",
+    "golferId": "g010",
+    "amount": 827425
+  },
+  {
+    "tournamentId": "3m",
+    "golferId": "g001",
+    "amount": 813990
+  },
+  {
+    "tournamentId": "3m",
+    "golferId": "g002",
+    "amount": 366078
+  },
+  {
+    "tournamentId": "3m",
+    "golferId": "g003",
+    "amount": 504023
+  },
+  {
+    "tournamentId": "3m",
+    "golferId": "g004",
+    "amount": 616250
+  },
+  {
+    "tournamentId": "3m",
+    "golferId": "g005",
+    "amount": 657477
+  },
+  {
+    "tournamentId": "3m",
+    "golferId": "g006",
+    "amount": 325732
+  },
+  {
+    "tournamentId": "3m",
+    "golferId": "g007",
+    "amount": 177665
+  },
+  {
+    "tournamentId": "3m",
+    "golferId": "g008",
+    "amount": 218044
+  },
+  {
+    "tournamentId": "3m",
+    "golferId": "g009",
+    "amount": 481333
+  },
+  {
+    "tournamentId": "3m",
+    "golferId": "g010",
+    "amount": 464519
+  },
+  {
+    "tournamentId": "wyndham",
+    "golferId": "g001",
+    "amount": 639782
+  },
+  {
+    "tournamentId": "wyndham",
+    "golferId": "g002",
+    "amount": 460548
+  },
+  {
+    "tournamentId": "wyndham",
+    "golferId": "g003",
+    "amount": 380364
+  },
+  {
+    "tournamentId": "wyndham",
+    "golferId": "g004",
+    "amount": 248543
+  },
+  {
+    "tournamentId": "wyndham",
+    "golferId": "g005",
+    "amount": 589378
+  },
+  {
+    "tournamentId": "wyndham",
+    "golferId": "g006",
+    "amount": 583508
+  },
+  {
+    "tournamentId": "wyndham",
+    "golferId": "g007",
+    "amount": 664949
+  },
+  {
+    "tournamentId": "wyndham",
+    "golferId": "g008",
+    "amount": 622619
+  },
+  {
+    "tournamentId": "wyndham",
+    "golferId": "g009",
+    "amount": 463392
+  },
+  {
+    "tournamentId": "wyndham",
+    "golferId": "g010",
+    "amount": 682389
+  },
+  {
+    "tournamentId": "fedex",
+    "golferId": "g001",
+    "amount": 567544
+  },
+  {
+    "tournamentId": "fedex",
+    "golferId": "g002",
+    "amount": 476874
+  },
+  {
+    "tournamentId": "fedex",
+    "golferId": "g003",
+    "amount": 485913
+  },
+  {
+    "tournamentId": "fedex",
+    "golferId": "g004",
+    "amount": 464278
+  },
+  {
+    "tournamentId": "fedex",
+    "golferId": "g005",
+    "amount": 215139
+  },
+  {
+    "tournamentId": "fedex",
+    "golferId": "g006",
+    "amount": 551448
+  },
+  {
+    "tournamentId": "fedex",
+    "golferId": "g007",
+    "amount": 553482
+  },
+  {
+    "tournamentId": "fedex",
+    "golferId": "g008",
+    "amount": 449660
+  },
+  {
+    "tournamentId": "fedex",
+    "golferId": "g009",
+    "amount": 384923
+  },
+  {
+    "tournamentId": "fedex",
+    "golferId": "g010",
+    "amount": 535770
+  },
+  {
+    "tournamentId": "bmw",
+    "golferId": "g001",
+    "amount": 845530
+  },
+  {
+    "tournamentId": "bmw",
+    "golferId": "g002",
+    "amount": 581738
+  },
+  {
+    "tournamentId": "bmw",
+    "golferId": "g003",
+    "amount": 487854
+  },
+  {
+    "tournamentId": "bmw",
+    "golferId": "g004",
+    "amount": 463282
+  },
+  {
+    "tournamentId": "bmw",
+    "golferId": "g005",
+    "amount": 529536
+  },
+  {
+    "tournamentId": "bmw",
+    "golferId": "g006",
+    "amount": 338285
+  },
+  {
+    "tournamentId": "bmw",
+    "golferId": "g007",
+    "amount": 497210
+  },
+  {
+    "tournamentId": "bmw",
+    "golferId": "g008",
+    "amount": 513177
+  },
+  {
+    "tournamentId": "bmw",
+    "golferId": "g009",
+    "amount": 768701
+  },
+  {
+    "tournamentId": "bmw",
+    "golferId": "g010",
+    "amount": 621521
+  }
+]

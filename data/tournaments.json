@@ -1,0 +1,242 @@
+[
+  {
+    "id": "sony-open",
+    "name": "Sony Open in Hawaii",
+    "startDate": "2024-01-11",
+    "endDate": "2024-01-14",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "amx",
+    "name": "The American Express",
+    "startDate": "2024-01-18",
+    "endDate": "2024-01-21",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "farmers",
+    "name": "Farmers Insurance Open",
+    "startDate": "2024-01-24",
+    "endDate": "2024-01-27",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "pebble",
+    "name": "AT&T Pebble Beach Pro-Am",
+    "startDate": "2024-02-01",
+    "endDate": "2024-02-04",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "wmphoenix",
+    "name": "WM Phoenix Open",
+    "startDate": "2024-02-08",
+    "endDate": "2024-02-11",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "genesis",
+    "name": "The Genesis Invitational",
+    "startDate": "2024-02-15",
+    "endDate": "2024-02-18",
+    "isMajor": true,
+    "includeInSchedule": true
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico Open",
+    "startDate": "2024-02-22",
+    "endDate": "2024-02-25",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "arnold",
+    "name": "Arnold Palmer Invitational",
+    "startDate": "2024-03-07",
+    "endDate": "2024-03-10",
+    "isMajor": true,
+    "includeInSchedule": true
+  },
+  {
+    "id": "players",
+    "name": "THE PLAYERS Championship",
+    "startDate": "2024-03-14",
+    "endDate": "2024-03-17",
+    "isMajor": true,
+    "includeInSchedule": true
+  },
+  {
+    "id": "valspar",
+    "name": "Valspar Championship",
+    "startDate": "2024-03-21",
+    "endDate": "2024-03-24",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "texas",
+    "name": "Texas Children's Houston Open",
+    "startDate": "2024-03-28",
+    "endDate": "2024-03-31",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "masters",
+    "name": "Masters Tournament",
+    "startDate": "2024-04-11",
+    "endDate": "2024-04-14",
+    "isMajor": true,
+    "includeInSchedule": true
+  },
+  {
+    "id": "rbc",
+    "name": "RBC Heritage",
+    "startDate": "2024-04-18",
+    "endDate": "2024-04-21",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "zurich",
+    "name": "Zurich Classic of New Orleans",
+    "startDate": "2024-04-25",
+    "endDate": "2024-04-28",
+    "isMajor": false,
+    "includeInSchedule": false
+  },
+  {
+    "id": "wells",
+    "name": "Wells Fargo Championship",
+    "startDate": "2024-05-09",
+    "endDate": "2024-05-12",
+    "isMajor": true,
+    "includeInSchedule": true
+  },
+  {
+    "id": "byron",
+    "name": "CJ CUP Byron Nelson",
+    "startDate": "2024-05-02",
+    "endDate": "2024-05-05",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "pga",
+    "name": "PGA Championship",
+    "startDate": "2024-05-16",
+    "endDate": "2024-05-19",
+    "isMajor": true,
+    "includeInSchedule": true
+  },
+  {
+    "id": "charles",
+    "name": "Charles Schwab Challenge",
+    "startDate": "2024-05-23",
+    "endDate": "2024-05-26",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "canadian",
+    "name": "RBC Canadian Open",
+    "startDate": "2024-05-30",
+    "endDate": "2024-06-02",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "memorial",
+    "name": "the Memorial Tournament",
+    "startDate": "2024-06-06",
+    "endDate": "2024-06-09",
+    "isMajor": true,
+    "includeInSchedule": true
+  },
+  {
+    "id": "usopen",
+    "name": "U.S. Open",
+    "startDate": "2024-06-13",
+    "endDate": "2024-06-16",
+    "isMajor": true,
+    "includeInSchedule": true
+  },
+  {
+    "id": "travellers",
+    "name": "Travelers Championship",
+    "startDate": "2024-06-20",
+    "endDate": "2024-06-23",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "rocket",
+    "name": "Rocket Mortgage Classic",
+    "startDate": "2024-06-27",
+    "endDate": "2024-06-30",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "john-deere",
+    "name": "John Deere Classic",
+    "startDate": "2024-07-04",
+    "endDate": "2024-07-07",
+    "isMajor": true,
+    "includeInSchedule": true
+  },
+  {
+    "id": "scottish",
+    "name": "Genesis Scottish Open",
+    "startDate": "2024-07-11",
+    "endDate": "2024-07-14",
+    "isMajor": false,
+    "includeInSchedule": false
+  },
+  {
+    "id": "open",
+    "name": "The Open Championship",
+    "startDate": "2024-07-18",
+    "endDate": "2024-07-21",
+    "isMajor": true,
+    "includeInSchedule": true
+  },
+  {
+    "id": "3m",
+    "name": "3M Open",
+    "startDate": "2024-07-25",
+    "endDate": "2024-07-28",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "wyndham",
+    "name": "Wyndham Championship",
+    "startDate": "2024-08-01",
+    "endDate": "2024-08-04",
+    "isMajor": false,
+    "includeInSchedule": true
+  },
+  {
+    "id": "fedex",
+    "name": "FedEx St. Jude Championship",
+    "startDate": "2024-08-15",
+    "endDate": "2024-08-18",
+    "isMajor": true,
+    "includeInSchedule": true
+  },
+  {
+    "id": "bmw",
+    "name": "BMW Championship",
+    "startDate": "2024-08-22",
+    "endDate": "2024-08-25",
+    "isMajor": true,
+    "includeInSchedule": true
+  }
+]
