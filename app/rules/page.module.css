@@ -1,0 +1,20 @@
+.page {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.markdown {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 1.25rem;
+  box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+  line-height: 1.6;
+}
+
+.markdown h2 {
+  margin-top: 1.5rem;
+}
+
+.markdown ul {
+  padding-left: 1.5rem;
+}

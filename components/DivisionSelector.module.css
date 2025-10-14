@@ -1,0 +1,14 @@
+.selector {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.875rem;
+  color: inherit;
+}
+
+select {
+  padding: 0.4rem 0.5rem;
+  border: 1px solid rgba(15, 23, 42, 0.2);
+  border-radius: 0.5rem;
+  background: white;
+}

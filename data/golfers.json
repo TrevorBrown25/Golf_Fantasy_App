@@ -1,0 +1,602 @@
+[
+  {
+    "id": "g001",
+    "name": "Golfer 1",
+    "worldRank": 1
+  },
+  {
+    "id": "g002",
+    "name": "Golfer 2",
+    "worldRank": 2
+  },
+  {
+    "id": "g003",
+    "name": "Golfer 3",
+    "worldRank": 3
+  },
+  {
+    "id": "g004",
+    "name": "Golfer 4",
+    "worldRank": 4
+  },
+  {
+    "id": "g005",
+    "name": "Golfer 5",
+    "worldRank": 5
+  },
+  {
+    "id": "g006",
+    "name": "Golfer 6",
+    "worldRank": 6
+  },
+  {
+    "id": "g007",
+    "name": "Golfer 7",
+    "worldRank": 7
+  },
+  {
+    "id": "g008",
+    "name": "Golfer 8",
+    "worldRank": 8
+  },
+  {
+    "id": "g009",
+    "name": "Golfer 9",
+    "worldRank": 9
+  },
+  {
+    "id": "g010",
+    "name": "Golfer 10",
+    "worldRank": 10
+  },
+  {
+    "id": "g011",
+    "name": "Golfer 11",
+    "worldRank": 11
+  },
+  {
+    "id": "g012",
+    "name": "Golfer 12",
+    "worldRank": 12
+  },
+  {
+    "id": "g013",
+    "name": "Golfer 13",
+    "worldRank": 13
+  },
+  {
+    "id": "g014",
+    "name": "Golfer 14",
+    "worldRank": 14
+  },
+  {
+    "id": "g015",
+    "name": "Golfer 15",
+    "worldRank": 15
+  },
+  {
+    "id": "g016",
+    "name": "Golfer 16",
+    "worldRank": 16
+  },
+  {
+    "id": "g017",
+    "name": "Golfer 17",
+    "worldRank": 17
+  },
+  {
+    "id": "g018",
+    "name": "Golfer 18",
+    "worldRank": 18
+  },
+  {
+    "id": "g019",
+    "name": "Golfer 19",
+    "worldRank": 19
+  },
+  {
+    "id": "g020",
+    "name": "Golfer 20",
+    "worldRank": 20
+  },
+  {
+    "id": "g021",
+    "name": "Golfer 21",
+    "worldRank": 21
+  },
+  {
+    "id": "g022",
+    "name": "Golfer 22",
+    "worldRank": 22
+  },
+  {
+    "id": "g023",
+    "name": "Golfer 23",
+    "worldRank": 23
+  },
+  {
+    "id": "g024",
+    "name": "Golfer 24",
+    "worldRank": 24
+  },
+  {
+    "id": "g025",
+    "name": "Golfer 25",
+    "worldRank": 25
+  },
+  {
+    "id": "g026",
+    "name": "Golfer 26",
+    "worldRank": 26
+  },
+  {
+    "id": "g027",
+    "name": "Golfer 27",
+    "worldRank": 27
+  },
+  {
+    "id": "g028",
+    "name": "Golfer 28",
+    "worldRank": 28
+  },
+  {
+    "id": "g029",
+    "name": "Golfer 29",
+    "worldRank": 29
+  },
+  {
+    "id": "g030",
+    "name": "Golfer 30",
+    "worldRank": 30
+  },
+  {
+    "id": "g031",
+    "name": "Golfer 31",
+    "worldRank": 31
+  },
+  {
+    "id": "g032",
+    "name": "Golfer 32",
+    "worldRank": 32
+  },
+  {
+    "id": "g033",
+    "name": "Golfer 33",
+    "worldRank": 33
+  },
+  {
+    "id": "g034",
+    "name": "Golfer 34",
+    "worldRank": 34
+  },
+  {
+    "id": "g035",
+    "name": "Golfer 35",
+    "worldRank": 35
+  },
+  {
+    "id": "g036",
+    "name": "Golfer 36",
+    "worldRank": 36
+  },
+  {
+    "id": "g037",
+    "name": "Golfer 37",
+    "worldRank": 37
+  },
+  {
+    "id": "g038",
+    "name": "Golfer 38",
+    "worldRank": 38
+  },
+  {
+    "id": "g039",
+    "name": "Golfer 39",
+    "worldRank": 39
+  },
+  {
+    "id": "g040",
+    "name": "Golfer 40",
+    "worldRank": 40
+  },
+  {
+    "id": "g041",
+    "name": "Golfer 41",
+    "worldRank": 41
+  },
+  {
+    "id": "g042",
+    "name": "Golfer 42",
+    "worldRank": 42
+  },
+  {
+    "id": "g043",
+    "name": "Golfer 43",
+    "worldRank": 43
+  },
+  {
+    "id": "g044",
+    "name": "Golfer 44",
+    "worldRank": 44
+  },
+  {
+    "id": "g045",
+    "name": "Golfer 45",
+    "worldRank": 45
+  },
+  {
+    "id": "g046",
+    "name": "Golfer 46",
+    "worldRank": 46
+  },
+  {
+    "id": "g047",
+    "name": "Golfer 47",
+    "worldRank": 47
+  },
+  {
+    "id": "g048",
+    "name": "Golfer 48",
+    "worldRank": 48
+  },
+  {
+    "id": "g049",
+    "name": "Golfer 49",
+    "worldRank": 49
+  },
+  {
+    "id": "g050",
+    "name": "Golfer 50",
+    "worldRank": 50
+  },
+  {
+    "id": "g051",
+    "name": "Golfer 51",
+    "worldRank": 51
+  },
+  {
+    "id": "g052",
+    "name": "Golfer 52",
+    "worldRank": 52
+  },
+  {
+    "id": "g053",
+    "name": "Golfer 53",
+    "worldRank": 53
+  },
+  {
+    "id": "g054",
+    "name": "Golfer 54",
+    "worldRank": 54
+  },
+  {
+    "id": "g055",
+    "name": "Golfer 55",
+    "worldRank": 55
+  },
+  {
+    "id": "g056",
+    "name": "Golfer 56",
+    "worldRank": 56
+  },
+  {
+    "id": "g057",
+    "name": "Golfer 57",
+    "worldRank": 57
+  },
+  {
+    "id": "g058",
+    "name": "Golfer 58",
+    "worldRank": 58
+  },
+  {
+    "id": "g059",
+    "name": "Golfer 59",
+    "worldRank": 59
+  },
+  {
+    "id": "g060",
+    "name": "Golfer 60",
+    "worldRank": 60
+  },
+  {
+    "id": "g061",
+    "name": "Golfer 61",
+    "worldRank": 61
+  },
+  {
+    "id": "g062",
+    "name": "Golfer 62",
+    "worldRank": 62
+  },
+  {
+    "id": "g063",
+    "name": "Golfer 63",
+    "worldRank": 63
+  },
+  {
+    "id": "g064",
+    "name": "Golfer 64",
+    "worldRank": 64
+  },
+  {
+    "id": "g065",
+    "name": "Golfer 65",
+    "worldRank": 65
+  },
+  {
+    "id": "g066",
+    "name": "Golfer 66",
+    "worldRank": 66
+  },
+  {
+    "id": "g067",
+    "name": "Golfer 67",
+    "worldRank": 67
+  },
+  {
+    "id": "g068",
+    "name": "Golfer 68",
+    "worldRank": 68
+  },
+  {
+    "id": "g069",
+    "name": "Golfer 69",
+    "worldRank": 69
+  },
+  {
+    "id": "g070",
+    "name": "Golfer 70",
+    "worldRank": 70
+  },
+  {
+    "id": "g071",
+    "name": "Golfer 71",
+    "worldRank": 71
+  },
+  {
+    "id": "g072",
+    "name": "Golfer 72",
+    "worldRank": 72
+  },
+  {
+    "id": "g073",
+    "name": "Golfer 73",
+    "worldRank": 73
+  },
+  {
+    "id": "g074",
+    "name": "Golfer 74",
+    "worldRank": 74
+  },
+  {
+    "id": "g075",
+    "name": "Golfer 75",
+    "worldRank": 75
+  },
+  {
+    "id": "g076",
+    "name": "Golfer 76",
+    "worldRank": 76
+  },
+  {
+    "id": "g077",
+    "name": "Golfer 77",
+    "worldRank": 77
+  },
+  {
+    "id": "g078",
+    "name": "Golfer 78",
+    "worldRank": 78
+  },
+  {
+    "id": "g079",
+    "name": "Golfer 79",
+    "worldRank": 79
+  },
+  {
+    "id": "g080",
+    "name": "Golfer 80",
+    "worldRank": 80
+  },
+  {
+    "id": "g081",
+    "name": "Golfer 81",
+    "worldRank": 81
+  },
+  {
+    "id": "g082",
+    "name": "Golfer 82",
+    "worldRank": 82
+  },
+  {
+    "id": "g083",
+    "name": "Golfer 83",
+    "worldRank": 83
+  },
+  {
+    "id": "g084",
+    "name": "Golfer 84",
+    "worldRank": 84
+  },
+  {
+    "id": "g085",
+    "name": "Golfer 85",
+    "worldRank": 85
+  },
+  {
+    "id": "g086",
+    "name": "Golfer 86",
+    "worldRank": 86
+  },
+  {
+    "id": "g087",
+    "name": "Golfer 87",
+    "worldRank": 87
+  },
+  {
+    "id": "g088",
+    "name": "Golfer 88",
+    "worldRank": 88
+  },
+  {
+    "id": "g089",
+    "name": "Golfer 89",
+    "worldRank": 89
+  },
+  {
+    "id": "g090",
+    "name": "Golfer 90",
+    "worldRank": 90
+  },
+  {
+    "id": "g091",
+    "name": "Golfer 91",
+    "worldRank": 91
+  },
+  {
+    "id": "g092",
+    "name": "Golfer 92",
+    "worldRank": 92
+  },
+  {
+    "id": "g093",
+    "name": "Golfer 93",
+    "worldRank": 93
+  },
+  {
+    "id": "g094",
+    "name": "Golfer 94",
+    "worldRank": 94
+  },
+  {
+    "id": "g095",
+    "name": "Golfer 95",
+    "worldRank": 95
+  },
+  {
+    "id": "g096",
+    "name": "Golfer 96",
+    "worldRank": 96
+  },
+  {
+    "id": "g097",
+    "name": "Golfer 97",
+    "worldRank": 97
+  },
+  {
+    "id": "g098",
+    "name": "Golfer 98",
+    "worldRank": 98
+  },
+  {
+    "id": "g099",
+    "name": "Golfer 99",
+    "worldRank": 99
+  },
+  {
+    "id": "g100",
+    "name": "Golfer 100",
+    "worldRank": 100
+  },
+  {
+    "id": "g101",
+    "name": "Golfer 101",
+    "worldRank": 101
+  },
+  {
+    "id": "g102",
+    "name": "Golfer 102",
+    "worldRank": 102
+  },
+  {
+    "id": "g103",
+    "name": "Golfer 103",
+    "worldRank": 103
+  },
+  {
+    "id": "g104",
+    "name": "Golfer 104",
+    "worldRank": 104
+  },
+  {
+    "id": "g105",
+    "name": "Golfer 105",
+    "worldRank": 105
+  },
+  {
+    "id": "g106",
+    "name": "Golfer 106",
+    "worldRank": 106
+  },
+  {
+    "id": "g107",
+    "name": "Golfer 107",
+    "worldRank": 107
+  },
+  {
+    "id": "g108",
+    "name": "Golfer 108",
+    "worldRank": 108
+  },
+  {
+    "id": "g109",
+    "name": "Golfer 109",
+    "worldRank": 109
+  },
+  {
+    "id": "g110",
+    "name": "Golfer 110",
+    "worldRank": 110
+  },
+  {
+    "id": "g111",
+    "name": "Golfer 111",
+    "worldRank": 111
+  },
+  {
+    "id": "g112",
+    "name": "Golfer 112",
+    "worldRank": 112
+  },
+  {
+    "id": "g113",
+    "name": "Golfer 113",
+    "worldRank": 113
+  },
+  {
+    "id": "g114",
+    "name": "Golfer 114",
+    "worldRank": 114
+  },
+  {
+    "id": "g115",
+    "name": "Golfer 115",
+    "worldRank": 115
+  },
+  {
+    "id": "g116",
+    "name": "Golfer 116",
+    "worldRank": 116
+  },
+  {
+    "id": "g117",
+    "name": "Golfer 117",
+    "worldRank": 117
+  },
+  {
+    "id": "g118",
+    "name": "Golfer 118",
+    "worldRank": 118
+  },
+  {
+    "id": "g119",
+    "name": "Golfer 119",
+    "worldRank": 119
+  },
+  {
+    "id": "g120",
+    "name": "Golfer 120",
+    "worldRank": 120
+  }
+]

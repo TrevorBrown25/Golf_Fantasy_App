@@ -1,0 +1,20 @@
+.page {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.helper {
+  color: rgba(15, 23, 42, 0.6);
+  font-size: 0.9rem;
+}
+
+.divisionGrid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+@media (min-width: 960px) {
+  .divisionGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

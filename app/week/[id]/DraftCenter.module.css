@@ -1,0 +1,26 @@
+.page {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.picks,
+.pool {
+  background: white;
+  border-radius: 1.25rem;
+  padding: 1.25rem;
+  box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+}
+
+.list {
+  display: grid;
+}
+
+.empty {
+  color: rgba(15, 23, 42, 0.6);
+}

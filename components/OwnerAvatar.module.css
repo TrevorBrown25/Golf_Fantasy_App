@@ -1,0 +1,12 @@
+.avatar {
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(160deg, #0fbf6a, #10b981);
+  color: white;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}

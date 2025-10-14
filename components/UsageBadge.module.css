@@ -1,0 +1,20 @@
+.badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.25rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  min-width: 64px;
+}
+
+.badge[data-variant='exhausted'] {
+  background: rgba(220, 38, 38, 0.1);
+  color: #991b1b;
+}
+
+.badge[data-variant='available'] {
+  background: rgba(15, 191, 106, 0.12);
+  color: #047857;
+}

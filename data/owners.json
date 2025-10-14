@@ -1,0 +1,10 @@
+[
+  { "id": "bryce", "name": "Bryce", "divisionId": "RIGHT_SHARKS", "isCommissioner": true },
+  { "id": "tl", "name": "TL", "divisionId": "RIGHT_SHARKS" },
+  { "id": "serg", "name": "Serg", "divisionId": "RIGHT_SHARKS" },
+  { "id": "dj", "name": "DJ", "divisionId": "RIGHT_SHARKS" },
+  { "id": "nick", "name": "Nick", "divisionId": "LEFT_SHARKS" },
+  { "id": "grch", "name": "Grch", "divisionId": "LEFT_SHARKS" },
+  { "id": "travis", "name": "Travis", "divisionId": "LEFT_SHARKS" },
+  { "id": "david", "name": "David", "divisionId": "LEFT_SHARKS" }
+]
